@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaydon Clarke
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python, C & Javascript
+- 🌱 I’m currently learning C 
 - 📫 How to reach me email: jaydonclarke.school@gmail.com
 
 <!---
